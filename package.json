@@ -155,7 +155,7 @@
     "@types/lodash.groupby": "^4.6.6",
     "@types/mocha": "^7.0.1",
     "@types/node": "^13.7.6",
-    "@types/react-helmet": "^5.0.15",
+    "@types/react-helmet": "^5.0.16",
     "@types/react-modal": "^3.10.5",
     "@types/react-select": "^3.0.10",
     "@types/styled-components": "4.1.8",
